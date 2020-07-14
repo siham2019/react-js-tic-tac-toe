@@ -1,0 +1,31 @@
+h1{
+  padding-left: 150px;
+}
+.d input{
+width: 30px;
+margin-bottom: 10px;
+}
+.r{
+  display: inline;
+  padding: 5px;
+  margin: 0 0 10px 2px;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+margin-left: 200px;
+}
+table{
+  position: fixed;
+  width: 40%;
+  border-collapse: collapse;
+}
+td{
+  font-size: large;
+  padding: 20px;
+  width:30%;
+  height: 30%;
+  text-align: center;
+  border:1px solid black;
+}
